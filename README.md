@@ -4,4 +4,4 @@
 
 笔记基本做到了把书读薄，接下来马上要做的是整理读书的心得和“新得”。地址如下：
 
-[地址](https://dtcz.gitbooks.io/projsnotes/)
+[《JavaScript 高级程序设计》](https://dtcz.gitbooks.io/projsnotes/)
